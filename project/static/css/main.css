@@ -77,6 +77,15 @@ label {
   margin-bottom: 15px;
 }
 
+.inline-form .input-group{
+display: inline-block;
+margin: 10px 5px;
+} 
+
+.input-group input {
+width: 100%;
+}
+
 .datagrid table {
   border-collapse: collapse;
   text-align: left;
