@@ -143,3 +143,9 @@ width: 100%;
   text-decoration:none;
   position:relative;
 }
+
+.error {
+color: red;
+font-size: .4em;
+background-color: #FFFFFF;
+}
