@@ -98,6 +98,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-project/_config.py
+# project/_config.py
 *.db
 
